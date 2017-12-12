@@ -1,0 +1,12 @@
+div, h2, h1{
+    border: red 2px solid;
+    /*border-radius: 15px;*/
+}
+
+img{
+    max-width: 250px;
+}
+
+h1,h2{
+    width:20%;
+}
